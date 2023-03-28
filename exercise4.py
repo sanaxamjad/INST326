@@ -6,4 +6,7 @@ def say_hello(name):
 message = say_hello("Sana")
 print(message)
 
+def say_goodbye():
+    print("goodbye")
 
+say_goodbye()
