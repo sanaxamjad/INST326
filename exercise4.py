@@ -1,6 +1,6 @@
 """
-Driver: Sana Amjad, Pride Kwekam
-Navigator: Sana Amjad, Pride Kwekam
+Driver: Sana Amjad, Pride Kwekam, Arshul Shaik
+Navigator: Sana Amjad, Pride Kwekam, Arshul Shaik
 Assignment: INST326 - Exercise 4
 Date: 03_31_23
 
