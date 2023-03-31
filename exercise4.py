@@ -23,7 +23,7 @@ def say_hello(name):
 message = say_hello("Sana")
 print(message)
 
-def say_goodbye():
+def say_goodbye_command():
     """
     Prints a goodbye message to the console.
     
@@ -35,4 +35,4 @@ def say_goodbye():
     """
     print("goodbye")
 
-say_goodbye()
+say_goodbye_command()
