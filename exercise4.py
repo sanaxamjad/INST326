@@ -17,8 +17,8 @@ def say_hello(name):
     Returns:
     str: A greeting string that includes the person's name.
     """
-    greeting = "Hello, " + name + "!"
-    return greeting
+    say_greeting = "Hello, " + name + "!"
+    return say_greeting
 
 message = say_hello("Sana")
 print(message)
