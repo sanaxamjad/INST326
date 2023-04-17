@@ -1,12 +1,16 @@
-# Import necessary modules
+import os
 import sqlite3
 from tkinter import *
 from tkinter import messagebox
+
+# Set TK_SILENCE_DEPRECATION to suppress the warning
+os.environ['TK_SILENCE_DEPRECATION'] = '1'
 
 # Create the address book application window
 root = Tk()
 root.title("Address Book")
 root.geometry("500x400")
+
 
 # Create a function to connect to the database
 def connect():
